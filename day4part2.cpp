@@ -10,7 +10,7 @@ bool checkBingo(vector<vector<int>> board);
 int calcScore(vector<vector<int>> board, int last);
 
 int main() {
-    ifstream inputFile; inputFile.open(R"(C:\Users\aaroh\CLionProjects\untitled\input4.txt)");
+    ifstream inputFile; inputFile.open(R"(input4.txt)");
 
     string draws;
 
