@@ -8,7 +8,7 @@ using namespace std;
 int toBinary(string bin);
 
 int main() {
-    ifstream inputFile; inputFile.open("C:\\Users\\aaroh\\CLionProjects\\untitled\\input3.txt");
+    ifstream inputFile; inputFile.open("input3.txt");
 
     vector<string> values;
     string lineString;
